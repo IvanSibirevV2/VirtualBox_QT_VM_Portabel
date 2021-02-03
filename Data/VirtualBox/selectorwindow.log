@@ -1,18 +1,18 @@
-00:00:02.953054 VirtualBox GUI VM Selector Window 6.1.2 r135662 win.amd64 (Jan 13 2020 10:54:25) release log
-00:00:02.953056 Log opened 2021-02-03T06:18:12.812880900Z
-00:00:02.953057 Build Type: release
-00:00:02.953059 OS Product: Windows 10
-00:00:02.953060 OS Release: 10.0.18363
-00:00:02.953061 OS Service Pack: 
-00:00:02.974707 DMI Product Name: TravelMate P614-51T
-00:00:02.979741 DMI Product Version: V1.01
-00:00:02.979779 Firmware type: UEFI
-00:00:02.980345 Secure Boot: Enabled
-00:00:02.980361 Host RAM: 16186MB (15.8GB) total, 7855MB (7.6GB) available
-00:00:02.980368 Executable: C:\D\VirtualBox\App\VirtualBox\VirtualBox.exe
-00:00:02.980368 Process ID: 8632
-00:00:02.980369 Package type: WINDOWS_64BITS_GENERIC
-00:00:02.980532 Qt version: 5.6.2
-00:00:02.994531 GUI: UIMediumEnumerator: Medium-enumeration started...
-00:00:03.415537 GUI: UIMediumEnumerator: Medium-enumeration finished!
-00:00:08.203810 2D support test succeeded
+00:00:09.247558 VirtualBox GUI VM Selector Window 6.1.2 r135662 win.amd64 (Jan 13 2020 10:54:25) release log
+00:00:09.247560 Log opened 2021-02-03T07:33:35.941426300Z
+00:00:09.247560 Build Type: release
+00:00:09.247562 OS Product: Windows 10
+00:00:09.247563 OS Release: 10.0.18363
+00:00:09.247563 OS Service Pack: 
+00:00:09.275910 DMI Product Name: TravelMate P614-51T
+00:00:09.281394 DMI Product Version: V1.01
+00:00:09.281424 Firmware type: UEFI
+00:00:09.282008 Secure Boot: Enabled
+00:00:09.282028 Host RAM: 16186MB (15.8GB) total, 11718MB (11.4GB) available
+00:00:09.282033 Executable: C:\D\VirtualBox_QT_VM_Portabel\App\VirtualBox\VirtualBox.exe
+00:00:09.282034 Process ID: 12436
+00:00:09.282034 Package type: WINDOWS_64BITS_GENERIC
+00:00:09.282252 Qt version: 5.6.2
+00:00:09.347064 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:09.970353 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:56.255675 GUI: UIMediumEnumerator: Medium-enumeration finished!

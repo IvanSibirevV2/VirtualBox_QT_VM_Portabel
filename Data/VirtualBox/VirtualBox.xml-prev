@@ -19,7 +19,7 @@
       <ExtraDataItem name="GUI/UpdateDate" value="never"/>
     </ExtraData>
     <MachineRegistry>
-      <MachineEntry uuid="{8628bb17-cfd7-49a4-9b15-4db0702bdf63}" src="C:\D\VirtualBox\VmS\QT\QT.vbox"/>
+      <MachineEntry uuid="{8628bb17-cfd7-49a4-9b15-4db0702bdf63}" src="C:/D/VirtualBox_QT_VM_Portabel/VmS/QT/QT.vbox"/>
     </MachineRegistry>
     <NetserviceRegistry>
       <DHCPServers/>
